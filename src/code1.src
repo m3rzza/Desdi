@@ -1,2 +1,4 @@
+//kommentti kehityshaarassa väliaikainen
+var kehitys = 7;
 var x = 3;
 echo x;
