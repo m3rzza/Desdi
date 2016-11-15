@@ -1,5 +1,4 @@
-// Master-haarassa
-Var z = 1;
+//Kissa-muuttuja
 var y = 'kissa';
 var x = 3;
 if (x > 7){
