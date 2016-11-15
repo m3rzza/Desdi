@@ -1,2 +1,3 @@
+//tämä on kakkaa
 var y = 3;
 echo y+2;
